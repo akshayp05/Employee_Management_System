@@ -1,0 +1,9 @@
+body {
+	background: url(img/bg.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.primary-background {
+	background: #2196f3 !important;
+}
